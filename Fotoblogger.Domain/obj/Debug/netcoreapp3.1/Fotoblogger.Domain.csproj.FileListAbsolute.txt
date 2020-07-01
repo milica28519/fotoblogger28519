@@ -1,0 +1,11 @@
+C:\Users\milic\source\repos\Fotoblogger\Fotoblogger.Domain\bin\Debug\netcoreapp3.1\Fotoblogger.Domain.deps.json
+C:\Users\milic\source\repos\Fotoblogger\Fotoblogger.Domain\bin\Debug\netcoreapp3.1\Fotoblogger.Domain.runtimeconfig.json
+C:\Users\milic\source\repos\Fotoblogger\Fotoblogger.Domain\bin\Debug\netcoreapp3.1\Fotoblogger.Domain.runtimeconfig.dev.json
+C:\Users\milic\source\repos\Fotoblogger\Fotoblogger.Domain\bin\Debug\netcoreapp3.1\Fotoblogger.Domain.dll
+C:\Users\milic\source\repos\Fotoblogger\Fotoblogger.Domain\bin\Debug\netcoreapp3.1\Fotoblogger.Domain.pdb
+C:\Users\milic\source\repos\Fotoblogger\Fotoblogger.Domain\obj\Debug\netcoreapp3.1\Fotoblogger.Domain.AssemblyInfoInputs.cache
+C:\Users\milic\source\repos\Fotoblogger\Fotoblogger.Domain\obj\Debug\netcoreapp3.1\Fotoblogger.Domain.AssemblyInfo.cs
+C:\Users\milic\source\repos\Fotoblogger\Fotoblogger.Domain\obj\Debug\netcoreapp3.1\Fotoblogger.Domain.csproj.CoreCompileInputs.cache
+C:\Users\milic\source\repos\Fotoblogger\Fotoblogger.Domain\obj\Debug\netcoreapp3.1\Fotoblogger.Domain.dll
+C:\Users\milic\source\repos\Fotoblogger\Fotoblogger.Domain\obj\Debug\netcoreapp3.1\Fotoblogger.Domain.pdb
+C:\Users\milic\source\repos\Fotoblogger\Fotoblogger.Domain\obj\Debug\netcoreapp3.1\Fotoblogger.Domain.genruntimeconfig.cache

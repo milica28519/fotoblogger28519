@@ -1,0 +1,15 @@
+C:\Users\milic\source\repos\Fotoblogger\Fotoblogger.EfDataAccess\bin\Debug\netcoreapp3.1\Fotoblogger.EfDataAccess.deps.json
+C:\Users\milic\source\repos\Fotoblogger\Fotoblogger.EfDataAccess\bin\Debug\netcoreapp3.1\Fotoblogger.EfDataAccess.runtimeconfig.json
+C:\Users\milic\source\repos\Fotoblogger\Fotoblogger.EfDataAccess\bin\Debug\netcoreapp3.1\Fotoblogger.EfDataAccess.runtimeconfig.dev.json
+C:\Users\milic\source\repos\Fotoblogger\Fotoblogger.EfDataAccess\bin\Debug\netcoreapp3.1\Fotoblogger.EfDataAccess.dll
+C:\Users\milic\source\repos\Fotoblogger\Fotoblogger.EfDataAccess\bin\Debug\netcoreapp3.1\Fotoblogger.EfDataAccess.pdb
+C:\Users\milic\source\repos\Fotoblogger\Fotoblogger.EfDataAccess\bin\Debug\netcoreapp3.1\Fotoblogger.Domain.dll
+C:\Users\milic\source\repos\Fotoblogger\Fotoblogger.EfDataAccess\bin\Debug\netcoreapp3.1\Fotoblogger.Domain.pdb
+C:\Users\milic\source\repos\Fotoblogger\Fotoblogger.EfDataAccess\obj\Debug\netcoreapp3.1\Fotoblogger.EfDataAccess.csprojAssemblyReference.cache
+C:\Users\milic\source\repos\Fotoblogger\Fotoblogger.EfDataAccess\obj\Debug\netcoreapp3.1\Fotoblogger.EfDataAccess.AssemblyInfoInputs.cache
+C:\Users\milic\source\repos\Fotoblogger\Fotoblogger.EfDataAccess\obj\Debug\netcoreapp3.1\Fotoblogger.EfDataAccess.AssemblyInfo.cs
+C:\Users\milic\source\repos\Fotoblogger\Fotoblogger.EfDataAccess\obj\Debug\netcoreapp3.1\Fotoblogger.EfDataAccess.csproj.CoreCompileInputs.cache
+C:\Users\milic\source\repos\Fotoblogger\Fotoblogger.EfDataAccess\obj\Debug\netcoreapp3.1\Fotoblogger.EfDataAccess.csproj.CopyComplete
+C:\Users\milic\source\repos\Fotoblogger\Fotoblogger.EfDataAccess\obj\Debug\netcoreapp3.1\Fotoblogger.EfDataAccess.dll
+C:\Users\milic\source\repos\Fotoblogger\Fotoblogger.EfDataAccess\obj\Debug\netcoreapp3.1\Fotoblogger.EfDataAccess.pdb
+C:\Users\milic\source\repos\Fotoblogger\Fotoblogger.EfDataAccess\obj\Debug\netcoreapp3.1\Fotoblogger.EfDataAccess.genruntimeconfig.cache

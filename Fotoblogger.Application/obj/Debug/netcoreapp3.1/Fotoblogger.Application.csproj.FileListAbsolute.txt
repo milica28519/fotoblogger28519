@@ -1,0 +1,12 @@
+C:\Users\milic\source\repos\Fotoblogger\Fotoblogger.Application\bin\Debug\netcoreapp3.1\Fotoblogger.Application.deps.json
+C:\Users\milic\source\repos\Fotoblogger\Fotoblogger.Application\bin\Debug\netcoreapp3.1\Fotoblogger.Application.dll
+C:\Users\milic\source\repos\Fotoblogger\Fotoblogger.Application\bin\Debug\netcoreapp3.1\Fotoblogger.Application.pdb
+C:\Users\milic\source\repos\Fotoblogger\Fotoblogger.Application\bin\Debug\netcoreapp3.1\Fotoblogger.Domain.dll
+C:\Users\milic\source\repos\Fotoblogger\Fotoblogger.Application\bin\Debug\netcoreapp3.1\Fotoblogger.Domain.pdb
+C:\Users\milic\source\repos\Fotoblogger\Fotoblogger.Application\obj\Debug\netcoreapp3.1\Fotoblogger.Application.csprojAssemblyReference.cache
+C:\Users\milic\source\repos\Fotoblogger\Fotoblogger.Application\obj\Debug\netcoreapp3.1\Fotoblogger.Application.AssemblyInfoInputs.cache
+C:\Users\milic\source\repos\Fotoblogger\Fotoblogger.Application\obj\Debug\netcoreapp3.1\Fotoblogger.Application.AssemblyInfo.cs
+C:\Users\milic\source\repos\Fotoblogger\Fotoblogger.Application\obj\Debug\netcoreapp3.1\Fotoblogger.Application.csproj.CoreCompileInputs.cache
+C:\Users\milic\source\repos\Fotoblogger\Fotoblogger.Application\obj\Debug\netcoreapp3.1\Fotoblogger.Application.csproj.CopyComplete
+C:\Users\milic\source\repos\Fotoblogger\Fotoblogger.Application\obj\Debug\netcoreapp3.1\Fotoblogger.Application.dll
+C:\Users\milic\source\repos\Fotoblogger\Fotoblogger.Application\obj\Debug\netcoreapp3.1\Fotoblogger.Application.pdb

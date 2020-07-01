@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fotoblogger.API", "Fotoblogger.API\Fotoblogger.API.csproj", "{024A374D-D47D-45DF-9609-66A4B3D19BFA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fotoblogger.Application", "Fotoblogger.Application\Fotoblogger.Application.csproj", "{03CAD1B1-2FFD-48BB-BA86-EB85AE55722B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fotoblogger.Domain", "Fotoblogger.Domain\Fotoblogger.Domain.csproj", "{980F229A-D902-4730-8483-6A563ECC855C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fotoblogger.EfDataAccess", "Fotoblogger.EfDataAccess\Fotoblogger.EfDataAccess.csproj", "{E52E8C98-1F8C-4728-92ED-E78E480319F3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fotoblogger.Implementation", "Fotoblogger.Implementation\Fotoblogger.Implementation.csproj", "{949C9661-8DC7-45F8-BD41-9F9E08591BF4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{024A374D-D47D-45DF-9609-66A4B3D19BFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{024A374D-D47D-45DF-9609-66A4B3D19BFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{024A374D-D47D-45DF-9609-66A4B3D19BFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{024A374D-D47D-45DF-9609-66A4B3D19BFA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{03CAD1B1-2FFD-48BB-BA86-EB85AE55722B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03CAD1B1-2FFD-48BB-BA86-EB85AE55722B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03CAD1B1-2FFD-48BB-BA86-EB85AE55722B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03CAD1B1-2FFD-48BB-BA86-EB85AE55722B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{980F229A-D902-4730-8483-6A563ECC855C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{980F229A-D902-4730-8483-6A563ECC855C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{980F229A-D902-4730-8483-6A563ECC855C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{980F229A-D902-4730-8483-6A563ECC855C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E52E8C98-1F8C-4728-92ED-E78E480319F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E52E8C98-1F8C-4728-92ED-E78E480319F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E52E8C98-1F8C-4728-92ED-E78E480319F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E52E8C98-1F8C-4728-92ED-E78E480319F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{949C9661-8DC7-45F8-BD41-9F9E08591BF4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{949C9661-8DC7-45F8-BD41-9F9E08591BF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{949C9661-8DC7-45F8-BD41-9F9E08591BF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{949C9661-8DC7-45F8-BD41-9F9E08591BF4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2002BA43-4BF4-4BFD-85BA-BDA44624A6BC}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,16 @@
+C:\Users\milic\source\repos\Fotoblogger\Fotoblogger.Implementation\bin\Debug\netcoreapp3.1\Fotoblogger.Implementation.deps.json
+C:\Users\milic\source\repos\Fotoblogger\Fotoblogger.Implementation\bin\Debug\netcoreapp3.1\Fotoblogger.Implementation.dll
+C:\Users\milic\source\repos\Fotoblogger\Fotoblogger.Implementation\bin\Debug\netcoreapp3.1\Fotoblogger.Implementation.pdb
+C:\Users\milic\source\repos\Fotoblogger\Fotoblogger.Implementation\bin\Debug\netcoreapp3.1\Fotoblogger.Application.dll
+C:\Users\milic\source\repos\Fotoblogger\Fotoblogger.Implementation\bin\Debug\netcoreapp3.1\Fotoblogger.Domain.dll
+C:\Users\milic\source\repos\Fotoblogger\Fotoblogger.Implementation\bin\Debug\netcoreapp3.1\Fotoblogger.EfDataAccess.dll
+C:\Users\milic\source\repos\Fotoblogger\Fotoblogger.Implementation\bin\Debug\netcoreapp3.1\Fotoblogger.Application.pdb
+C:\Users\milic\source\repos\Fotoblogger\Fotoblogger.Implementation\bin\Debug\netcoreapp3.1\Fotoblogger.EfDataAccess.pdb
+C:\Users\milic\source\repos\Fotoblogger\Fotoblogger.Implementation\bin\Debug\netcoreapp3.1\Fotoblogger.Domain.pdb
+C:\Users\milic\source\repos\Fotoblogger\Fotoblogger.Implementation\obj\Debug\netcoreapp3.1\Fotoblogger.Implementation.csprojAssemblyReference.cache
+C:\Users\milic\source\repos\Fotoblogger\Fotoblogger.Implementation\obj\Debug\netcoreapp3.1\Fotoblogger.Implementation.AssemblyInfoInputs.cache
+C:\Users\milic\source\repos\Fotoblogger\Fotoblogger.Implementation\obj\Debug\netcoreapp3.1\Fotoblogger.Implementation.AssemblyInfo.cs
+C:\Users\milic\source\repos\Fotoblogger\Fotoblogger.Implementation\obj\Debug\netcoreapp3.1\Fotoblogger.Implementation.csproj.CoreCompileInputs.cache
+C:\Users\milic\source\repos\Fotoblogger\Fotoblogger.Implementation\obj\Debug\netcoreapp3.1\Fotoblogger.Implementation.csproj.CopyComplete
+C:\Users\milic\source\repos\Fotoblogger\Fotoblogger.Implementation\obj\Debug\netcoreapp3.1\Fotoblogger.Implementation.dll
+C:\Users\milic\source\repos\Fotoblogger\Fotoblogger.Implementation\obj\Debug\netcoreapp3.1\Fotoblogger.Implementation.pdb

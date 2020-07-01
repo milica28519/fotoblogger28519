@@ -1,0 +1,85 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Migrations\20200621191332_Inital migration.cs" />
+    <Compile Remove="Migrations\20200621191332_Inital migration.Designer.cs" />
+    <Compile Remove="Migrations\20200621191703_Inital migration.cs" />
+    <Compile Remove="Migrations\20200621191703_Inital migration.Designer.cs" />
+    <Compile Remove="Migrations\20200621191858_Inital migration.cs" />
+    <Compile Remove="Migrations\20200621191858_Inital migration.Designer.cs" />
+    <Compile Remove="Migrations\20200621210515_Added seed for users and roles.cs" />
+    <Compile Remove="Migrations\20200621210515_Added seed for users and roles.Designer.cs" />
+    <Compile Remove="Migrations\20200622204827_Set Id to PK for Users.cs" />
+    <Compile Remove="Migrations\20200622204827_Set Id to PK for Users.Designer.cs" />
+    <Compile Remove="Migrations\20200622205940_Initial Migration.cs" />
+    <Compile Remove="Migrations\20200622205940_Initial Migration.Designer.cs" />
+    <Compile Remove="Migrations\20200623092527_Initial Migration.cs" />
+    <Compile Remove="Migrations\20200623092527_Initial Migration.Designer.cs" />
+    <Compile Remove="Migrations\20200623093316_Initial Migration.cs" />
+    <Compile Remove="Migrations\20200623093316_Initial Migration.Designer.cs" />
+    <Compile Remove="Migrations\20200623172038_trying to fix insert of identity error.cs" />
+    <Compile Remove="Migrations\20200623172038_trying to fix insert of identity error.Designer.cs" />
+    <Compile Remove="Migrations\20200623172423_Adding user to comments foreign key reference.cs" />
+    <Compile Remove="Migrations\20200623172423_Adding user to comments foreign key reference.Designer.cs" />
+    <Compile Remove="Migrations\20200623172454_Adding user to comments foreign key reference.cs" />
+    <Compile Remove="Migrations\20200623172454_Adding user to comments foreign key reference.Designer.cs" />
+    <Compile Remove="Migrations\20200623173554_Set identity insert on and change seed of DB.cs" />
+    <Compile Remove="Migrations\20200623173554_Set identity insert on and change seed of DB.Designer.cs" />
+    <Compile Remove="Migrations\20200623173651_Set identity insert on.cs" />
+    <Compile Remove="Migrations\20200623173651_Set identity insert on.Designer.cs" />
+    <Compile Remove="Migrations\20200623175029_Set identity insert on.cs" />
+    <Compile Remove="Migrations\20200623175029_Set identity insert on.Designer.cs" />
+    <Compile Remove="Migrations\20200623175208_Fix identity insert to not be set.cs" />
+    <Compile Remove="Migrations\20200623175208_Fix identity insert to not be set.Designer.cs" />
+    <Compile Remove="Migrations\20200623181150_Fix relationship of User with Role.cs" />
+    <Compile Remove="Migrations\20200623181150_Fix relationship of User with Role.Designer.cs" />
+    <Compile Remove="Migrations\20200625175542_Changed property Text to nullable for entity Posta.cs" />
+    <Compile Remove="Migrations\20200625175542_Changed property Text to nullable for entity Posta.Designer.cs" />
+    <Compile Remove="Migrations\20200625201224_Renamed property of path to fileName for photoss.cs" />
+    <Compile Remove="Migrations\20200625201224_Renamed property of path to fileName for photoss.Designer.cs" />
+    <Compile Remove="Migrations\20200625220731_Added proeprty Posts to User.cs" />
+    <Compile Remove="Migrations\20200625220731_Added proeprty Posts to User.Designer.cs" />
+    <Compile Remove="Migrations\20200625220818_Added property Posts to User.cs" />
+    <Compile Remove="Migrations\20200625220818_Added property Posts to User.Designer.cs" />
+    <Compile Remove="Migrations\20200627175431_Store UseCases in DB.cs" />
+    <Compile Remove="Migrations\20200627175431_Store UseCases in DB.Designer.cs" />
+    <Compile Remove="Migrations\20200627181836_Added seed for UseCaseList.cs" />
+    <Compile Remove="Migrations\20200627181836_Added seed for UseCaseList.Designer.cs" />
+    <Compile Remove="Migrations\20200627183017_Added seed for UseCaseList.cs" />
+    <Compile Remove="Migrations\20200627183017_Added seed for UseCaseList.Designer.cs" />
+    <Compile Remove="Migrations\20200627213923_Added new UseCase.cs" />
+    <Compile Remove="Migrations\20200627213923_Added new UseCase.Designer.cs" />
+    <Compile Remove="Migrations\20200628103442_Add relationships to Role and UseCase to RoleUseCase entity.cs" />
+    <Compile Remove="Migrations\20200628103442_Add relationships to Role and UseCase to RoleUseCase entity.Designer.cs" />
+    <Compile Remove="Migrations\20200628170046_Added UseCases with ids 7-11s.cs" />
+    <Compile Remove="Migrations\20200628170046_Added UseCases with ids 7-11s.Designer.cs" />
+    <Compile Remove="Migrations\20200629152611_Added enum property RoleType to entity Role.cs" />
+    <Compile Remove="Migrations\20200629152611_Added enum property RoleType to entity Role.Designer.cs" />
+    <Compile Remove="Migrations\20200629152702_Added enum property RoleType, removed proeprty IsMaster, for entity Role.cs" />
+    <Compile Remove="Migrations\20200629152702_Added enum property RoleType, removed proeprty IsMaster, for entity Role.Designer.cs" />
+    <Compile Remove="Migrations\20200629222946_Added property Post to enitity Comments.cs" />
+    <Compile Remove="Migrations\20200629222946_Added property Post to enitity Comments.Designer.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="3.1.5" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="3.1.5">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="3.1.5" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="3.1.5">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Fotoblogger.Domain\Fotoblogger.Domain.csproj" />
+  </ItemGroup>
+
+</Project>
