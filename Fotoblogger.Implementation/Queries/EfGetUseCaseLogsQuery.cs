@@ -54,7 +54,7 @@ namespace Fotoblogger.Implementation.Queries
             if (!string.IsNullOrEmpty(search.DateTo) && !string.IsNullOrWhiteSpace(search.DateTo))
                 query = query.Where(r => r.Date.Date <= DateTime.Parse(search.DateTo));
 
-            query = query.OrderByDescending(x => x.Date);
+            query = query;
 
             return new PagedResponse<UseCaseLogDto, UseCaseLog>(query, search, _mapper);
         }

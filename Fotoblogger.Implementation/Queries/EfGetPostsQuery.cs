@@ -45,7 +45,7 @@ namespace Fotoblogger.Implementation.Queries
                 query = query.Where(g => g.Photo.Caption.ToLower().Contains(search.PhotoCaption.ToLower()));
             }
 
-            query = query.OrderByDescending(x => x.CreatedAt);
+            query = query;
 
             return new PagedResponse<PostDto, Post>(query, search, _mapper);
         }

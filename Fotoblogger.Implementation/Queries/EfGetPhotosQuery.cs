@@ -35,7 +35,7 @@ namespace Fotoblogger.Implementation.Queries
                 query = query.Where(g => g.Caption.ToLower().Contains(search.PhotoCaption.ToLower()));
             }
 
-            query = query.OrderByDescending(x => x.getAverageScore());
+            query = query;
 
             return new PagedResponse<PhotoDto, Photo>(query, search, _mapper);
         }

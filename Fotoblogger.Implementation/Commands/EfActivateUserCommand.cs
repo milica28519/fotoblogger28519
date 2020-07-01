@@ -33,20 +33,23 @@ namespace Fotoblogger.Implementation.Commands
 
         public void Execute(ActivateUserDto request)
         {
-            if (_actor.Id != 0 && _actor.RoleType != RoleType.Administrator && _actor.RoleType != RoleType.Moderator)
-                throw new NotAllowedException(UseCase.getUseCase(this.Id), _actor, "You can only reactivate your own user profile.");
-
             User user ;
             int actorId;
 
             // user ativating his own deactivated acocunt it must confirm his password
             if (_actor.Id == 0)
             {
+                if (_actor.Id != 0 && _actor.RoleType != RoleType.Administrator && _actor.RoleType != RoleType.Moderator)
+                    throw new NotAllowedException(UseCase.getUseCase(this.Id), _actor, "You can only reactivate your own user profile.");
+
                 _validator.ValidateAndThrow(request);
 
                 user = _context.Users.FirstOrDefault(u => !u.IsDeleted && u.Id == request.Id);
 
                 CheckIfNull(user);
+                
+                if (user.Id != request.Id)
+                    throw new NotAllowedException(UseCase.getUseCase(this.Id), _actor, "You can only reactivate your profile if you deactivated it yourself.");
 
                 if (user.Password != request.Password)
                     throw new WrongPasswordException(UseCase.getUseCase(this.Id), _actor);

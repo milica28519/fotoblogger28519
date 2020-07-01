@@ -9,3 +9,4 @@ C:\Users\milic\source\repos\Fotoblogger\Fotoblogger.Domain\obj\Debug\netcoreapp3
 C:\Users\milic\source\repos\Fotoblogger\Fotoblogger.Domain\obj\Debug\netcoreapp3.1\Fotoblogger.Domain.dll
 C:\Users\milic\source\repos\Fotoblogger\Fotoblogger.Domain\obj\Debug\netcoreapp3.1\Fotoblogger.Domain.pdb
 C:\Users\milic\source\repos\Fotoblogger\Fotoblogger.Domain\obj\Debug\netcoreapp3.1\Fotoblogger.Domain.genruntimeconfig.cache
+C:\Users\milic\source\repos\Fotoblogger\Fotoblogger.Domain\obj\Debug\netcoreapp3.1\Fotoblogger.Domain.csprojAssemblyReference.cache

@@ -16,7 +16,8 @@ namespace Fotoblogger.API.Core
 
         public RoleType RoleType => RoleType.Administrator;
 
-        public IEnumerable<int> AllowedUseCases => new List<int> { 1 };
+        public IEnumerable<int> AllowedUseCases => new List<int> { 1 , 28 };
         // 1 - User Regsitration
+        // 28 - Activate User
     }
 }
